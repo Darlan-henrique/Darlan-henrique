@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi guys <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Henrique darlan</h1>
+<h1 align="center">\{^_^}/ Hi guys <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Henrique darlan</h1>
 <p align="left">
  - 👀 I’m interested in
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
