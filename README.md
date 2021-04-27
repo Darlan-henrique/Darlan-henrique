@@ -5,7 +5,7 @@
  
 ### Mobile developer.
  
-- :briefcase: Atualmente Assíduo estudante & Entusiasta de Densevolvimento Mobile.
-- :star: Focado em Android java/kotlin.
+- :briefcase: Atualmente assíduo estudante & entusiasta de densevolvimento Mobile.
+- :star: Focado em android java/kotlin.
 
 - 📫 Como me encontrar henrique.darlan@hotmail.com
