@@ -1,6 +1,7 @@
 
-<h1 align="center"> Olá, Bem vindo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Sou Henrique darlan</h1>
-<p align="left">
+ # Olá, Bem vindo! 
+ ## Sou Henrique darlan</h1>
+
  
  
  - 👀 I’m interested in
