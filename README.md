@@ -3,7 +3,9 @@
  ## Sou Henrique darlan</h1>
 
  
+### Mobile developer.
  
-- 👀 I’m interested in
-- 🌱 I’m currently learning
-- 📫 How to reach me henrique.darlan@hotmail.com
+- :briefcase: Atualmente So estudando de Densevolvimento Mobile.
+- :star: Focado em Android java/kotlin.
+
+- 📫 Como me encontrar henrique.darlan@hotmail.com
