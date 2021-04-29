@@ -6,5 +6,5 @@
 ### Mobile developer.
  
 - :briefcase: Atualmente assíduo estudante & entusiasta de densevolvimento Mobile.
-- :star: Focado em ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)  ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin) ![Java](java.png) 
+- :star: Focado em ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)  ![Java](java.png) ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin) 
 - 📫 Como me encontrar henrique.darlan@hotmail.com
