@@ -5,5 +5,5 @@
 
  
 - :briefcase: Atualmente assíduo estudante & entusiasta de densevolvimento Mobile.
-- :star: Focado em ![Android](android.png)  ![Java](java.png) ![Kotlin](kotlin.png) 
+- :star: Estudante desenvolvimento de software e aplicativos 
 - 📫 Como me encontrar henrique.darlan@hotmail.com
