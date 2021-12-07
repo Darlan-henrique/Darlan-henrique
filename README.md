@@ -4,6 +4,5 @@
 
 
  
-- :briefcase: Atualmente assíduo estudante & entusiasta de densevolvimento Mobile.
-- :star: Estudante desenvolvimento de software e aplicativos 
+- :briefcase: Atualmente assíduo estudante & entusiasta de  desenvolvimento de software e aplicativos.
 - 📫 Como me encontrar henrique.darlan@hotmail.com
